@@ -1,5 +1,5 @@
 # COMPREPAIR
 A website which provides computer repair service at user's site. 
-# Visit 
-https://comprepair.in 
-The website is live.
+Visit the link given below. The website is live. 
+# https://comprepair.in 
+
